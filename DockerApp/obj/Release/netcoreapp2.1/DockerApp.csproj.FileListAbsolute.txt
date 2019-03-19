@@ -1,0 +1,14 @@
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\bin\Release\netcoreapp2.1\DockerApp.deps.json
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\bin\Release\netcoreapp2.1\DockerApp.runtimeconfig.json
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\bin\Release\netcoreapp2.1\DockerApp.runtimeconfig.dev.json
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\bin\Release\netcoreapp2.1\DockerApp.dll
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\bin\Release\netcoreapp2.1\DockerApp.pdb
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.csprojAssemblyReference.cache
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.csproj.CoreCompileInputs.cache
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.RazorAssemblyInfo.cache
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.RazorAssemblyInfo.cs
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.AssemblyInfoInputs.cache
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.AssemblyInfo.cs
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.RazorTargetAssemblyInfo.cache
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.dll
+C:\Users\ndhir1\Source\Repos\DockerApp\DockerApp\obj\Release\netcoreapp2.1\DockerApp.pdb
