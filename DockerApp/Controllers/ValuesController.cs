@@ -14,7 +14,7 @@ namespace DockerApp.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "DockerTest", "ImageApp" };
+            return new string[] { "DockerTest1", "ImageApp" };
         }
 
         // GET api/values/5
